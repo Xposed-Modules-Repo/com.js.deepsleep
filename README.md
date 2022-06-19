@@ -1,16 +1,16 @@
 # DeepSleep
 
-* The Xposed module that controls application wake-up, runs on Android N ~ versions.
-* Restrict app wakelock/alarm/service/sync.
+## About
+
+* deepsleep can restrict the application from abusing the wakelock and alarm mechanisms in the background, allowing the device to enter a low-power standby state normally.
+* runs on Android N ~ versions.
 * The scope selects the application to be restricted.
 
 ---
 
-* 控制应用唤醒的 Xposed 模块,运行在 Android N ~ 版本.
-* 限制应用 wakelock/alarm/service/sync
+* 控制应用后台唤醒的 Xposed 模块
+* 运行在 Android N ~ 版本.
 * 作用域选择需要限制应用.
-
-## About
 
 ## Features
 
