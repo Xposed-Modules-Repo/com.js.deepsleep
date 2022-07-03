@@ -40,7 +40,7 @@
   - ~~help/about fragment~~
   - ~~black/white list/regex support~~
   - ~~dark/light theme switch~~
-  - broadcast restriction
+  - ~~broadcast restriction(drop it)~~
 
 ---
 
@@ -50,7 +50,7 @@
   - ~~黑白名单/正则支持~~
   - ~~深色/浅色主题切换~~
   - ~~备份/还原支持~~
-  - 广播限制
+  - ~~广播限制(舍去)~~
 
 ## Compatibility
 
